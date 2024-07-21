@@ -1,3 +1,5 @@
+# Sales Data Projection CDC Pipeline
+
 Process & analyze the sales data of tech gadgets in near real-time as CDC using AWS Cloud services
 
 # Tech Stack
