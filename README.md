@@ -20,6 +20,7 @@ Create DynamoDB table : OrderTable: -
 
 
 Run mock_data_generator_for_dynamodb.py to create real-time source dummy data from the user with DynamoDB access role
+
 ![image](https://github.com/user-attachments/assets/0bb5723a-c59d-4cc6-8ecf-d9da92c90331)
 
 
