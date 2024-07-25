@@ -3,16 +3,17 @@
 Process & analyze the sales data of tech gadgets in near real-time as CDC using AWS Cloud services
 
 # Tech Stack
-1. Python
-2. DynamoDB
-3. DynamoDB Streams
-4. Kinesis Streams
-5. Event Bridge Pipe
-6. Kinesis Firehose
-7. AWS Lambda
-8. Glue Crawler
-9. Athena
-10. S3
+1. Amazon Web Services
+2. Python
+3. DynamoDB
+4. DynamoDB Streams
+5. Kinesis Streams
+6. Event Bridge Pipe
+7. Kinesis Firehose
+8. AWS Lambda
+9. Glue Crawler
+10. Athena
+11. S3
 
 # DynamoDB
 Create DynamoDB table : OrderTable: -
